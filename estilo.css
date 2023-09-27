@@ -1,0 +1,14 @@
+.TituloDaPagina{
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(red, purple, red);
+        
+    
+}
+
+.SubTituloDaPagina{
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    
+}
